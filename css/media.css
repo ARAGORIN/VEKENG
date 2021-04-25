@@ -1,0 +1,55 @@
+/* @media (max-width: 1440px) {} */
+/* @media (max-width: 1366px) {} */
+/* @media (max-width: 1320px) {} */
+/* @media (max-width: 1290px) {} */
+/* @media (max-width: 1140px) {} */
+@media (max-width: 1024px) {
+    .abut__txt{
+        font-size: 30px;
+       
+    }
+    .content__cards{
+        overflow: hidden;
+        overflow-x: auto;
+
+    }
+    .content__card{
+        flex-shrink: 0;
+    }
+    .ben__bon{
+        width: 572px;
+    }
+    .ben__title{
+        width: 350px;
+    }
+    .list{
+        margin-top: 20px;
+    }
+    .main__cards{
+        overflow: hidden;
+        overflow-x: auto;
+    }
+}
+@media (max-width: 992px) {
+    .ben__cards{
+        column-gap: 30px;
+    }
+    .abut__box0{
+        width: 90%;
+       
+    }
+    .pard__box-3{
+        margin-left: 315px;
+    }
+}
+/* @media (max-width: 768px) {} */
+/* @media (max-width: 736px) {} */
+/* @media (max-width: 734px) {} */
+/* @media (max-width: 684px) {} */
+/* @media (max-width: 667px) {} */
+/* @media (max-width: 576px) {} */
+/* @media (max-width: 414px) {} */
+/* @media (max-width: 412px) {} */
+/* @media (max-width: 375px) {} */
+/* @media (max-width: 360px) {} */
+/* @media (max-width: 320px) {} */
